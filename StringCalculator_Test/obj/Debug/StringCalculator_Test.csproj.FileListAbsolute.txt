@@ -1,0 +1,7 @@
+c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\obj\Debug\StringCalculator_Test.csprojResolveAssemblyReference.cache
+c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\bin\Debug\StringCalculator_Test.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\bin\Debug\StringCalculator_Test.pdb
+c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\bin\Debug\nunit.framework.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\bin\Debug\nunit.framework.xml
+c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\obj\Debug\StringCalculator_Test.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\obj\Debug\StringCalculator_Test.pdb
