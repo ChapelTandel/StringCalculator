@@ -88,6 +88,7 @@ namespace Given_A_StringCalculator
     {
         [TestCase("10,-20,30",20,ExpectedException = typeof(Exception), ExpectedMessage = "-20")]
         [TestCase("-10,-20,30",20,ExpectedException = typeof(Exception), ExpectedMessage = "-10 -20")]
+        [TestCase("10,-20,30, -2",20,ExpectedException = typeof(Exception), ExpectedMessage = "-20 -2")]
         public void Then_Nagative_Not_Allowed_Expection_Is_Thrown_And_Negative_Numbers_Are_Listed(string inputString, int expectedResult)
         {
             var stringCalculator = new StringCalculator();
