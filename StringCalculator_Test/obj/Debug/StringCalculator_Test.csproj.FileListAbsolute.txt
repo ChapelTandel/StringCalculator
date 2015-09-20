@@ -5,3 +5,10 @@ c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\Strin
 c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\bin\Debug\nunit.framework.xml
 c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\obj\Debug\StringCalculator_Test.dll
 c:\users\ctandel\documents\visual studio 2015\Projects\ConsoleApplication1\StringCalculator_Test\obj\Debug\StringCalculator_Test.pdb
+C:\GitProjects\StringCalculator\StringCalculator_Test\bin\Debug\StringCalculator_Test.dll
+C:\GitProjects\StringCalculator\StringCalculator_Test\bin\Debug\StringCalculator_Test.pdb
+C:\GitProjects\StringCalculator\StringCalculator_Test\bin\Debug\nunit.framework.dll
+C:\GitProjects\StringCalculator\StringCalculator_Test\bin\Debug\nunit.framework.xml
+C:\GitProjects\StringCalculator\StringCalculator_Test\obj\Debug\StringCalculator_Test.csprojResolveAssemblyReference.cache
+C:\GitProjects\StringCalculator\StringCalculator_Test\obj\Debug\StringCalculator_Test.dll
+C:\GitProjects\StringCalculator\StringCalculator_Test\obj\Debug\StringCalculator_Test.pdb
